@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "2ff8d2ff5724156cf92e0885",
+  "owner": "jcpaept",
+  "repo": "page-d149c2f6eecbc92829f8617c",
+  "title": "优云666",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d149c2f6eecbc92829f8617c",
+      "a": "优云666",
+      "b": "机场官网线路发布页",
+      "entity": "优云666",
+      "brand": "优云666",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "673aacc8227e2f137fd3f1f0396a2d01909ac6ae3520e26e82001f3d6b321206",
+      "content": {
+        "primary_entity": "优云666",
+        "keyword1": "优云666",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，围绕日常跨境访问与流媒体播放场景设计，提供基础版、旗舰版与团队版三档套餐。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB 流量、支持 5 台设备，并含 IPLC 专线游戏加速优化；团队版每月 1000GB 流量、支持 20 台设备。年付分别约 ¥150、¥350、¥850，适合按设备数量与流量需求灵活挑选。",
+          "AI_HERO_SUBTITLE": "三档套餐覆盖多设备跨境访问",
+          "AI_HERO_INTRO": "优云666 提供面向个人与团队的海外加速订阅，按流量、设备数量与线路类型划分基础版、旗舰版和团队版。用户可结合日常使用设备数与流媒体、游戏加速需求，选择合适的套餐周期与客户端配置。",
+          "AI_VISUAL_TITLE": "优云666 多档订阅随心选",
+          "AI_HIGHLIGHT_1": "三档套餐按设备数灵活匹配",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "年付价格更省，周期自主选择",
+          "AI_FEATURES_TITLE": "套餐与设备搭配要点",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度与订阅周期三个角度，快速定位适合的套餐档位。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，按常用设备数量对应选择即可。",
+          "AI_FEATURE_TITLE_2": "按流量额度选档",
+          "AI_FEATURE_TEXT_2": "月流量从 100GB 到 1000GB 分档，日常浏览与高清流媒体用量较大时可选更高档位。",
+          "AI_FEATURE_TITLE_3": "按周期与线路选档",
+          "AI_FEATURE_TEXT_3": "年付比月付更省，旗舰版含 IPLC 专线，团队版提供 VIP 高带宽节点与企业定制路由。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，并按客户端文档导入订阅链接完成配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付分别约 ¥150、¥350、¥850，可按设备数与流量需求对比选择。",
+          "AI_GUIDE_TITLE": "使用三步",
+          "AI_GUIDE_INTRO": "先定套餐档位，再核对设备与客户端，最后导入订阅链接。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据日常设备数量与月流量需求，在基础版、旗舰版与团队版之间选定档位与周期。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备系统与客户端，核对套餐支持的设备数量与线路类型是否匹配。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅链接，保存后即可在各设备上启用加速服务。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "优云666 支持哪些设备使用？",
+          "AI_FAQ_ANSWER_1": "按设备系统选择对应客户端即可，基础版支持 3 台设备、旗舰版 5 台、团队版 20 台同时在线，可在多个系统客户端中选择使用。",
+          "AI_FAQ_QUESTION_2": "如何把订阅导入到客户端？",
+          "AI_FAQ_ANSWER_2": "在对应客户端中按文档导入订阅链接，保存后刷新节点列表即可使用，各系统操作路径略有差异，可参考客户端说明。",
+          "AI_FAQ_QUESTION_3": "月付和年付怎么选更划算？",
+          "AI_FAQ_ANSWER_3": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，长期使用选年付更省。",
+          "AI_FAQ_QUESTION_4": "流量用完了怎么办？",
+          "AI_FAQ_ANSWER_4": "各档套餐月度流量分别为 100GB、300GB 与 1000GB，接近上限时可升级到更高档位或调整使用习惯。",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版有什么区别？",
+          "AI_FAQ_ANSWER_5": "旗舰版面向个人，含 IPLC 专线游戏加速优化与优先工单支持；团队版支持更多设备、VIP 高带宽节点与企业定制路由。",
+          "AI_CLOSING_TITLE": "选对套餐再开始",
+          "AI_CLOSING_TEXT": "对照设备数量与流量需求，挑好档位后按客户端文档导入订阅，即可开始使用优云666。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lwiirxx.cn",
+    "host": "lwiirxx.cn"
+  },
+  "file_hashes": {
+    "index.html": "efa4176f4d4b8caf31221db0a331127ff307036707d71773a4ebf354153ec950",
+    "sitemap.xml": "c7e61bb57b0cd6e3c5d8bcba0c0fa5aa38fdc4b24daeefeb924af58e554d0444",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "216c81e1417a0f4456b473e3f02cce912c359adc12f6d3afa85774ce85ce60c2",
+    "robots.txt": "624dcdc429f89ec87dbedf71593ed0ac82d116c82b62a77948968f4ee47acf4f",
+    "53e0d9a477c28c69463391aaf8911736.txt": "f01d4dbebf1344efdd460e1daf95d5f86429beeed00eac4ef49d761fa23f126d"
+  },
+  "revision": "a6b81f41847439ffca3ed70c7d5da66be103fc0cd75dfa7679721db0c32260c0"
+}

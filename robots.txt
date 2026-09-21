@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lwiirxx.cn/sitemap.xml
